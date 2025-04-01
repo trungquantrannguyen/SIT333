@@ -925,3 +925,13 @@
 2025-04-01 18:07:44,210 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_2P/src/main/resources
 2025-04-01 18:07:44,211 [Worker-91: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-04-01 18:07:44,211 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_2P/src/test/resources
+2025-04-01 18:10:25,025 [ModalContext] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating task3_1P from maven configuration
+2025-04-01 18:10:26,613 [Worker-86: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sit707_tasks:task3_1P:1.0-SNAPSHOT @ /Users/trungquan/eclipse-workspace/SIT333/task3_1P/pom.xml.
+2025-04-01 18:10:26,750 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-01 18:10:26,752 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_1P/src/main/resources
+2025-04-01 18:10:26,754 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-01 18:10:26,755 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_1P/src/test/resources
+2025-04-01 18:10:27,885 [Worker-95: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-01 18:10:27,886 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_1P/src/main/resources
+2025-04-01 18:10:27,887 [Worker-95: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-01 18:10:27,887 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/trungquan/eclipse-workspace/SIT333/task3_1P/src/test/resources

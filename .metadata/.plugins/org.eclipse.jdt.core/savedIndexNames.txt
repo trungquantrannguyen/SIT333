@@ -18,11 +18,9 @@ INDEX VERSION 1.134+/Users/trungquan/eclipse-workspace/SIT333/.metadata/.plugins
 3672125160.index
 3529915949.index
 1427693503.index
-3735782291.index
 42562365.index
 3718279412.index
 3708012420.index
-2220742159.index
 3153960952.index
 557622367.index
 1289129762.index
@@ -64,7 +62,6 @@ INDEX VERSION 1.134+/Users/trungquan/eclipse-workspace/SIT333/.metadata/.plugins
 2524598226.index
 1143531360.index
 1210176117.index
-1722587423.index
 1710920829.index
 920899767.index
 477752136.index
